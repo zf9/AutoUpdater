@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\bin\Debug\SampleLoader.exe.config
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\bin\Debug\SampleLoader.exe
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\bin\Debug\SampleLoader.pdb
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\obj\Debug\SampleLoader.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\obj\Debug\SampleLoader.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\obj\Debug\SampleLoader.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\obj\Debug\SampleLoader.exe
-C:\Users\Admin\source\repos\SampleLoader\SampleLoader\obj\Debug\SampleLoader.pdb
