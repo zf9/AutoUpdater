@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
-C:\Users\Admin\source\repos\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
